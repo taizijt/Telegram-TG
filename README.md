@@ -38,6 +38,7 @@ TeleSync Pro 电报群组群组消息克隆、电报自定义话术炒群
 --———————-
 专业功能
 ⚙️ 支持消息转发、编辑、删除的完整同步
+
 ⚙️ 智能账号池管理，自动检测可用账号
 ⚙️ 关键词替换功能，保护敏感信息
 ⚙️ 用户排除系统，自定义忽略特定用户
@@ -46,7 +47,7 @@ TeleSync Pro 电报群组群组消息克隆、电报自定义话术炒群
 📱立即体验 TeleSync Pro，让您的Telegram群组更上一层楼！
 联系我们获取激活码，免费测试体验。
 ---
-<img width="1180" hei
+
 
 https://github.com/user-attachments/assets/de894581-0cd5-49e6-a8fa-1e25dbd69c07
 
@@ -54,4 +55,4 @@ https://github.com/user-attachments/assets/de894581-0cd5-49e6-a8fa-1e25dbd69c07
 
 https://github.com/user-attachments/assets/d0819317-d855-4eb8-a50b-672571ee7c55
 
-ght="787" alt="屏幕截图 2026-06-11 203254" src="https://github.com/user-attachments/assets/fa828628-1c25-4003-8b88-ed3b08178de3" />
+
