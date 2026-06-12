@@ -1,4 +1,4 @@
-#  TeleSync Pro 群组克隆自定义话术炒群
+#  TeleSync Pro 电报群组消息克隆/自定义话术炒群
 
 > 面向 Telegram 群组场景的消息同步与互动解决方案。
 
